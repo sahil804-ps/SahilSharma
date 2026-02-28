@@ -67,7 +67,7 @@ Infrastructure-level RPC monitoring and failure validation system.
 
 ## 📫 Connect With Me
 
-LinkedIn: (Add your LinkedIn link here)
+LinkedIn: www.linkedin.com/in/sahil-sharma-b685bb15a
 
 ---
 
